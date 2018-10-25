@@ -1,0 +1,20 @@
+{
+  "name": "skyprint",
+  "version": "1.0.0",
+  "description": "Minimal, environment-friendly printing made easy and accessible.",
+  "main": "popup.js",
+  "devDependencies": {
+    "@types/chrome": "0.0.74"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SkySecureX/SkyPrint.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SkySecureX/SkyPrint/issues"
+  },
+  "homepage": "https://github.com/SkySecureX/SkyPrint#readme"
+}

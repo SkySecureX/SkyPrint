@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+
+  "name": "SkyPrint",
+  "description": "Eco-friendly printing.",
+  "version": "1.0",
+
+
+  "permissions": [
+
+  ]
+
+}
